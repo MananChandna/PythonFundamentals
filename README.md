@@ -12,3 +12,5 @@ Execute code cells to see live outputs, visualizations, or any other dynamic con
 Navigate Sections:
 
 Use the section headers to easily navigate through different parts of the documentation.
+<h2>Contact</h2>
+    <p>If you have any questions or suggestions regarding this project, feel free to contact me via <a href="https://www.linkedin.com/in/manan-chandna-697588257/">LinkedIn</a>.</p>
